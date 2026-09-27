@@ -1,0 +1,33 @@
+{
+  "id": "/",
+  "name": "Ai là triệu phú Toán 10 - Bài 2: Tập hợp và các phép toán trên tập hợp",
+  "short_name": "Triệu Phú 10",
+  "description": "Trò chơi trắc nghiệm tương tác Toán 10 Bài 2: Tập hợp và các phép toán trên tập hợp - Hoạt động mượt mà ngoại tuyến không cần mạng wifi",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#020024",
+  "theme_color": "#020024",
+  "categories": ["education", "games"],
+  "icons": [
+    {
+      "src": "/pwa-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/pwa-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/pwa-maskable-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

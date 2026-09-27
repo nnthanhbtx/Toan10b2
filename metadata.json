@@ -1,0 +1,8 @@
+{
+  "name": "Ai là triệu phú Toán 10-Bài 2",
+  "description": "TẬP HỢP VÀ CÁC PHÉP TOÁN TRÊN TẬP HỢP",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
